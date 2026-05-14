@@ -1,0 +1,4 @@
+pip install tensorflow-directml opencv-python matplotlib scikit-learn Pillow scipy
+pip install tensorflow==2.10
+
+python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"

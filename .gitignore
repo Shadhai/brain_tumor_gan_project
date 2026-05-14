@@ -1,0 +1,16 @@
+models/
+dataset/synthetic/
+dataset/processed/
+outputs/logs/
+
+__pycache__/
+*.py[cod]
+
+venv/
+venv310/
+
+.env
+.idea/
+
+*.pth
+*.h5

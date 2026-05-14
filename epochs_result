@@ -1,0 +1,30 @@
+(venv310) PS D:\brain_tumor_gan_project> python main.py
+=== Step 1: Train GAN ===
+Starting GAN training on pituitary class only...
+Epoch    0 | D loss 0.9828 | D acc 81.2% | G loss 1.1532
+Epoch  100 | D loss 0.7506 | D acc 100.0% | G loss 3.0358
+Epoch  200 | D loss 0.7082 | D acc 100.0% | G loss 2.8962
+Epoch  300 | D loss 0.6890 | D acc 100.0% | G loss 2.4943
+Epoch  400 | D loss 0.6842 | D acc 100.0% | G loss 2.6155
+Epoch  500 | D loss 0.6729 | D acc 100.0% | G loss 2.7416
+Epoch  600 | D loss 0.6841 | D acc 100.0% | G loss 2.4289
+Epoch  700 | D loss 0.6766 | D acc 100.0% | G loss 2.0703
+Epoch  800 | D loss 0.6868 | D acc 100.0% | G loss 3.1970
+Epoch  900 | D loss 0.6621 | D acc 100.0% | G loss 2.4815
+Epoch 1000 | D loss 0.6829 | D acc 100.0% | G loss 2.0918
+Epoch 1100 | D loss 0.6696 | D acc 100.0% | G loss 2.1588
+Epoch 1200 | D loss 0.7069 | D acc 100.0% | G loss 2.9821
+Epoch 1300 | D loss 0.6710 | D acc 100.0% | G loss 2.4034
+Epoch 1400 | D loss 0.6701 | D acc 100.0% | G loss 2.1734
+Epoch 1500 | D loss 0.6770 | D acc 100.0% | G loss 2.8173
+Epoch 1600 | D loss 0.6678 | D acc 100.0% | G loss 2.5163
+Epoch 1700 | D loss 0.6649 | D acc 100.0% | G loss 2.5629
+Epoch 1800 | D loss 0.6746 | D acc 100.0% | G loss 2.3188
+Epoch 1900 | D loss 0.6601 | D acc 100.0% | G loss 2.1997
+GAN training complete.
+
+=== Step 2: Generate Synthetic Data (GAN) ===
+Saved 200 synthetic pituitary images for D2
+Saved 600 synthetic pituitary images for D3
+Saved 1000 synthetic pituitary images for D4
+Saved 600 synthetic pituitary images for D5
