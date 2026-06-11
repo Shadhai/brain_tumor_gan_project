@@ -368,7 +368,7 @@ NVIDIA RTX 3050 GPU
 
 # 📬 Contact
 
-## Alexander Joseph Shadhai
+## Shadhai  
 
 * GitHub: [Shadhai GitHub Profile](https://github.com/Shadhai)
 * Repository: [brain_tumor_gan_project Repository](https://github.com/Shadhai/brain_tumor_gan_project.git)
